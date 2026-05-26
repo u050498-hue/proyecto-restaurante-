@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Restaurante",
+  "description": "Aplicación completa e interactiva para la gestión integral de un restaurante: administración de personal, chefs, clientes, platillos, comandas en tiempo real, histórico de ventas y cobros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
